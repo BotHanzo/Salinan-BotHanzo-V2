@@ -4294,8 +4294,8 @@ case 'menu': {
 if (isBan) throw sticBanLu(from)
 if (!isRegistered) return replyReg(mess.verif)
 haikal.sendMessage(m.chat, { image: kalimage, caption: `◎ Owner : ${botname}
-◎ Lib : Multi-Device
-◎ Terbit : *01-09-1999*
+◎ Lib : Hanzo-Multi-Device
+◎ Terbit : *14-08-2008*
 
 [ 🇲🇨 Ini adalah Bot Pribadi  Dari Hanzo XD 👋 ]
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
@@ -4303,15 +4303,15 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `◎ Owner : ${botname}
 ┏━━⊱ 
 ┣❏➥ bot
 ┣❏➥ scraperimage
-┣❏➥ asupanmata
+┣❏➥ Stiker
 ┣❏➥ scrapconvert
 ┣❏➥ bugmenu
 ┣❏➥ randomsound
-┣❏➥ nsfw
+┣❏➥ Bugmenu
 ┣❏➥ soundbot
 ┣❏➥ funnmenu
 ┣❏➥ primbonmenu
-┣❏➥ islamiyah
+┣❏➥ islamiyah 🤗
 ┣❏➥ voicechanger
 ┣❏➥ beritanews
 ┣❏➥ cmdmenu
@@ -4323,14 +4323,14 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `◎ Owner : ${botname}
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 *NOTE*
-🌷
+🔥
 contact me Wa.me/6285242045870
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 Base Script
-©Hanzo`, contextInfo:{"externalAdReply": {"title": `SC Hanzo`,"body": `Selamat ${salam} kak ${pushname}`,
+©Hanzo XD`, contextInfo:{"externalAdReply": {"title": `SC Hanzo`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://youtube.com/c/HwModsWa857`,
+sourceUrl: `https://youtube.com/channel/UC-h8YOYkhx-eCEdqmLv-Xkg`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 thumbnail: kalimage,
 }
@@ -4347,10 +4347,10 @@ var catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "productImage": messa.imageMessage,
 "productId": "449756950375071",
 "title": ` © Hay Kak ${pushname} 👋 Selamat ${salam} Apa Yang Bisa Saya Bantu 🙏`,
-"description": ` - © Hanzo -
+"description": ` - © Hanzo XD -
 
 ◎ Owner : ${botname}
-◎ Lib : Multi-Device
+◎ Lib : Hanzo-Multi-Device
 ◎ Terbit : *14-08-2008*
 
 SILAHKAN KETIK MENU UNTUK MENGGUNAKAN BOT LEBIB LANJUT ✌️`,
@@ -4361,9 +4361,9 @@ SILAHKAN KETIK MENU UNTUK MENGGUNAKAN BOT LEBIB LANJUT ✌️`,
 "firstImageId": 1,
 "salePriceAmount1000": "10000000",
 "retailerId": `© Hanzo Crash Infinty`,
-"url": "Wa.me/6285714170944"
+"url": "Wa.me/6285242045870"
 },
-"businessOwnerJid": "6285714170944@s.whatsapp.net",
+"businessOwnerJid": "6285242045870@s.whatsapp.net",
 }
 }), { userJid: m.chat, quoted: hw })
 haikal.relayMessage(m.chat, catalog.message, { messageId: catalog.key.id })
@@ -4374,7 +4374,7 @@ case 'soundbot': {
 if (isBan) throw sticBanLu(from)
 if (!isRegistered) return replyReg(mess.verif)
 haikal.sendMessage(m.chat, { image: kalimage, caption: `
-*[ 🌷 ] soundbot* 
+*[ 🔥 ] soundbot* 
  
 kal
 ngakak
@@ -4403,7 +4403,7 @@ case 'funnmenu': {
 if (isBan) throw sticBanLu(from)
 if (!isRegistered) return replyReg(mess.verif)
 haikal.sendMessage(m.chat, { image: kalimage, caption: `
- *[ 🌷 ] funnmenu* 
+ *[ 🔥 ] funnmenu* 
 bagaimanakah
 kapankah
 apakah
@@ -4441,13 +4441,13 @@ case 'bugmenu': {
 if (isBan) throw sticBanLu(from)
 if (!isRegistered) return replyReg(mess.verif)
 haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} 👋 Selamat ${salam}
- - © HW MODS WA -
+ - © Hanzo Crash Infinty 😈 -
 
 ◎ Owner : ${botname}
 ◎ Lib : Multi-Device
 ◎ Terbit : *01-09-1999*
 
-*[ 🌷 ] Bugmenu*
+*[ 👿 ] Bugmenu*
 
 Bug Cr Vip [ true / false ]
 bugghoib [ on / off ]
@@ -4528,7 +4528,7 @@ case 'primbonmenu': {
 if (isBan) throw sticBanLu(from)
 if (!isRegistered) return replyReg(mess.verif)
 haikal.sendMessage(m.chat, { image: kalimage, caption: `
- *[ 🌷 ] primbonmenu* 
+ *[ 🔥 ] primbonmenu* 
 nomorhoki
  artimimpi
  artinama
@@ -4573,7 +4573,7 @@ case 'islamiyah': {
 if (isBan) throw sticBanLu(from)
 if (!isRegistered) return replyReg(mess.verif)
 haikal.sendMessage(m.chat, { image: kalimage, caption: `
-*[ 🌷 ] islamiyah* 
+*[ 🤗 ] islamiyah* 
 iqra
  hadist
  alquran
@@ -4594,7 +4594,7 @@ case 'beritanews': {
 if (isBan) throw sticBanLu(from)
 if (!isRegistered) return replyReg(mess.verif)
 haikal.sendMessage(m.chat, { image: kalimage, caption: `
- *[ 🌷 ] beritanews* 
+ *[ 🔥 ] beritanews* 
 merdeka-news
 kontan-news 
 cnbc-news
@@ -4625,7 +4625,7 @@ case 'groupmenu': {
 if (isBan) throw sticBanLu(from)
 if (!isRegistered) return replyReg(mess.verif)
 haikal.sendMessage(m.chat, { image: kalimage, caption: `
- *[ 🌷 ] Group Menu* 
+ *[ 🔥 ] Group Menu* 
 linkgroup
  ephemeral [option]
  setppgc [image]
@@ -4664,7 +4664,7 @@ case 'voicechanger': {
 if (isBan) throw sticBanLu(from)
 if (!isRegistered) return replyReg(mess.verif)
 haikal.sendMessage(m.chat, { image: kalimage, caption: `
- *[ 🌷 ] Voice Changer* 
+ *[ 🔥 ] Voice Changer* 
 bass
 blown
 deep
@@ -4679,7 +4679,7 @@ tupai`,
 contextInfo:{"externalAdReply": {"title": `SC HW MODS WA`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://youtube.com/c/HwModsWa857`,
+sourceUrl: `https://youtube.com/channel/UC-h8YOYkhx-eCEdqmLv-Xkg`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 thumbnail: kalimage,
 }
@@ -4691,23 +4691,23 @@ case 'asupanmata': {
 if (isBan) throw sticBanLu(from)
 if (!isRegistered) return replyReg(mess.verif)
 haikal.sendMessage(m.chat, { image: kalimage, caption: `
- *[ 🌷 ] Gak Ada👿* 
-asupan
-asupanukhty
-asupansantuy
-cecan-malaysia
-cecan-indo
-hijaber
-cecan-korea
-cecan-vietnam
-cecan-thai
-cecan-jepan
-cecan
-bokep`,
-contextInfo:{"externalAdReply": {"title": `SC HW MODS WA`,"body": `Selamat ${salam} kak ${pushname}`,
+ *[ 👿 ] Jagalah Pandangan mu👿* 
+Error😈
+Error😈
+Error😈
+Error😈
+Error😈
+Error😈
+Error😈
+Error😈
+Error😈
+Error😈
+Error😈
+Error😈`,
+contextInfo:{"externalAdReply": {"title": `SC Hanzo XD`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://youtube.com/c/HwModsWa857`,
+sourceUrl: `https://youtube.com/channel/UC-h8YOYkhx-eCEdqmLv-Xkg`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 thumbnail: kalimage,
 }
@@ -4719,7 +4719,7 @@ case 'searchmenu': {
 if (isBan) throw sticBanLu(from)
 if (!isRegistered) return replyReg(mess.verif)
 haikal.sendMessage(m.chat, { image: kalimage, caption: `
-*[ 🌷 ] Search Menu* 
+*[ 🔥 ] Search Menu* 
 play [query]
 yts [query]
 google [query]
@@ -4745,7 +4745,7 @@ case 'scrapconvert': {
 if (isBan) throw sticBanLu(from)
 if (!isRegistered) return replyReg(mess.verif)
 haikal.sendMessage(m.chat, { image: kalimage, caption: `
-*[ 🌷 ] Scrap Convert* 
+*[ 🔥 ] Scrap Convert* 
 attp
 ttp
 toimage
@@ -4779,7 +4779,7 @@ case 'cmdmenu': {
 if (isBan) throw sticBanLu(from)
 if (!isRegistered) return replyReg(mess.verif)
 haikal.sendMessage(m.chat, { image: kalimage, caption: `
-*[ 🌷 ] Cmd Menu* 
+*[ 🔥 ] Cmd Menu* 
 setcmd
 listcmd
 delcmd
@@ -4825,7 +4825,7 @@ case 'ownermenu': {
 if (isBan) throw sticBanLu(from)
 if (!isRegistered) return replyReg(mess.verif)
 haikal.sendMessage(m.chat, { image: kalimage, caption: `
- *[ 🌷 ] Owner Menu* 
+ *[ 🔥 ] Owner Menu* 
 react [emoji]
 chat [option]
 join [link]
@@ -4862,7 +4862,7 @@ case 'scraperimage': {
 if (isBan) throw sticBanLu(from)
 if (!isRegistered) return replyReg(mess.verif)
 haikal.sendMessage(m.chat, { image: kalimage, caption: `
- *[ 🌷 ] Scraper Image* 
+ *[ 🔥 ] Scraper Image* 
 coffe
 quotesanime
 couple
