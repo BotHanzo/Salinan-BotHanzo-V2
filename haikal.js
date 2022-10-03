@@ -4295,9 +4295,6 @@ if (isBan) throw sticBanLu(from)
 if (!isRegistered) return replyReg(mess.verif)
 haikal.sendMessage(m.chat, { image: kalimage, caption: `
 
-
-
-
 ╔┓┏╦━━╦┓╔┓╔━━╗╔╗
 ║┗┛║┗━╣┃║┃║╯╰║║║
 ║┏┓║┏━╣┗╣┗╣╰╯║╠╣
@@ -4426,7 +4423,7 @@ sangecek
 ceksange
 gaycek
 cekgay
-lesbicek
+lesbicek [ Zah Sama Kin 100%Lesbi🗿 ]
 halah
 hilih
 huluh
@@ -4449,10 +4446,6 @@ case 'bugmenu': {
 if (isBan) throw sticBanLu(from)
 if (!isRegistered) return replyReg(mess.verif)
 haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} 👋 Selamat ${salam}
-haahhwhsahshhahahahwhwvsbs 
-
-eygwgwhe
-
 
 ██▀░░░░░░░░░░░░░▀██
 █│░░░░░░░░░░░░░░░│█
@@ -4603,7 +4596,7 @@ if (isBan) throw sticBanLu(from)
 if (!isRegistered) return replyReg(mess.verif)
 haikal.sendMessage(m.chat, { image: kalimage, caption: `
 *[ 🤗 ] islamiyah* 
-iqra
+ iqra
  hadist
  alquran
  juzamma
@@ -4832,7 +4825,7 @@ case 'downloadmenu': {
 if (isBan) throw sticBanLu(from)
 if (!isRegistered) return replyReg(mess.verif)
 haikal.sendMessage(m.chat, { image: kalimage, caption: `
-*[ 🌷 ] Download Menu* 
+*[ 👿 ] Download Menu* 
 pinterestdl [url]
 ytmp3 [url]
 ytmp4 [url]
@@ -4943,7 +4936,7 @@ case 'randomsound': {
 if (isBan) throw sticBanLu(from)
 if (!isRegistered) return replyReg(mess.verif)
 haikal.sendMessage(m.chat, { image: kalimage, caption: `
- *[ 🌷 ] Sound Menu* 
+ *[ 🎵 ] Sound Menu* 
 sound1
 sound2
 sound3
