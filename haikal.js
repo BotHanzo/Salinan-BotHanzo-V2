@@ -4449,10 +4449,10 @@ case 'bugmenu': {
 if (isBan) throw sticBanLu(from)
 if (!isRegistered) return replyReg(mess.verif)
 haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} 👋 Selamat ${salam}
- - © Hanzo Crash Infinty 😈 -
+haahhwhsahshhahahahwhwvsbs 
 
-◎ Owner : ${botname}
-◎ Lib : Hanzo-Multi-Device
+eygwgwhe
+
 
 ██▀░░░░░░░░░░░░░▀██
 █│░░░░░░░░░░░░░░░│█
@@ -4470,9 +4470,9 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} �
 ████▄░└┴┴┴┴┴┘░▄████
 █████▄░░░░░░░▄█████
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-
-
-
+◎ Owner : ${botname}
+◎ Lib : Hanzo-Multi-Device
+- © Hanzo Crash Infinty 😈 -
 
 ▰▱▰▱▰▱▰▱▰▱▰▱▰
 
