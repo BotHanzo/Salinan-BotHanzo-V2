@@ -4472,17 +4472,10 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} �
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 Kebohongan dalam ajaran agama apapun adalah perbuatan dosa dan dilarang bagi setiap pemeluknya. Ajaran Islam juga melarang tindakan ini dan bahkan menyebut kebohongan sebagai salah satu dosa yang akan mengantar kepada dosa-dosa besar.
 
-
- 😈😈😈😈😈😈😈😈😈😈
-😈😈😈😈😈😈😈😈😈😈😈
-😈😈😈😈😈😈😈😈😈😈😈
-😈😈😈😈😈😈😈😈😈😈😈
-          💀 💀
-           💀
-           💀
-           💀
-
-
+ushwheh ehehehebebehehehebeb
+ushwheh ejhebejebe 
+jeheksjsbsb
+uwgeheh
 
 
 
