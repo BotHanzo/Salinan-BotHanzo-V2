@@ -4443,8 +4443,7 @@ break
 case 'bugmenu': {
 if (isBan) throw sticBanLu(from)
 if (!isRegistered) return replyReg(mess.verif)
-haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} 👋 Selamat ${salam}
-
+haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} Selamat ${salam}
 ██▀░░░░░░░░░░░░░▀██
 █│░░░░░░░░░░░░░░░│█
 ▌│░░░░░░░░░░░░░░░│▐
@@ -4461,78 +4460,61 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} �
 ████▄░└┴┴┴┴┴┘░▄████
 █████▄░░░░░░░▄█████
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-◎ Owner : ${botname}
-◎ Lib : Hanzo-Multi-Device
-- © Hanzo Crash Infinty 😈 -
+◎ 𝙾𝚆𝙽𝙴𝚁 : 𝙷𝙰𝙽𝚉𝙾 𝙰𝚃𝚃𝙰𝙲𝙺𝙴𝚁 😈
+◎ 𝙻𝙸𝙱 : 𝙱𝙾𝚃𝚉-𝙷𝙰𝙽𝚉𝙾-𝙼𝙳
+© 🔥 𝙷𝙰𝙽𝚉𝙾 𝙱𝙾𝚃𝚉 🔥
 
-▰▱▰▱▰▱▰▱▰▱▰▱▰
+▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
+                  *𝙱𝚄𝙶 𝙼𝙴𝙽𝚄*
+▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-[ 👿 ] Bugmenu
-
-Bug Cr Vip [ true / false ]
-bugghoib [ on / off ]
-
-spam [ Reply Bug For Spam ]
-senbug [ Bug Pilihan ]
-bugvip [ Bug Pilihan ]
-
-ha [ bugvn ]
-hi [ bugvn ]
-hu [ bugvn ]
-he [ bugvn ]
-ba [ bugvn ]
-be [ bugvn ]
-bu [ bugvn ]
-bi [ bugvn ]
-ca [ bugvn ]
-ci [ bugvn ]
-cu [ bugvn ]
-co [ bugvn ]
-bug1 [ bug mentions ]
-bug2 [ bug Gambar / Bagikal Jadi Bug Sw ]
-bug3 [ bug mentions ]
-bug4 [ bug mentions ]
-bug5 [ bug mentions ]
-bug6 [ bug mentions ]
-bug7 [ bug mentions ]
-poll [ bug vote ]
-gaskal [ Abis Kirim Gaskal Kasih Reactions ]
-bugtag [ Bug Yang Sambil Ngetag ]
-inibug [ Bug Tagall ]
-hiya [ Bug Document ]
-lokas [ Bug Live Lokasi ]
-catalog [ Bug Catalog ]
-docu [ document ]
-jagoanom [ reply orang di group ]
-daca [ document ]
-duc [ document ]
-ducu [ document ]
-troli [ Bug Troli ]
-troli2 [ Bug Troli 2 ]
-troli3 [ Bug Troli 3 Crash ]
-jadibug1 [ Reply Video Jadi Bug Audio ]
-jadibug2 [ Reply Video Jadi Bug Mp3 ]
-jadibug3 [ Reply Audio Jadi Bug Vn ]
-jadibug4 [ Reply Sticker Jadi Bug Gambar ]
-jadibug5 [ Reply Gambar Jadi Bug Once ] 
-bugstik [ Contoh : Bugstik 5 ]
-bugie [ Contoh : Bugie 5 ]
-buglokas [ Bug Lokasi ]
-bugsange [ Bug Vip Yang Harus Menjadi Admin ]
-bugtod [ Bug Contact ]
-bugbokep [ Bug Video ]
-bugbokep2 [ Di Lihat Crash ]
-buginvite [ Bug Khusus Chat Pribadi ]
-bugbctext [ Bug Text Broadcast ]
-
-Only For You : > m.chat to get group id 👿
-
-santetdia [ Contoh : santetdia 628xxx@s.whatsapp.net|10|10s ]
-santetgc [ Contoh : santetgc 1237891xxxx@g.us|10|10s ]
-ampas1  [ Contoh : Ampas1 628xxx ]
-ampas2 [Contoh : Ampas2 112674448xxx ]
-catalogpc [ Contoh : catalogpc 628xxx@s.whatsapp.net|10|10s ]
-cataloggc [ Contoh : cataloggc 1237891xxxx@g.us|10|10s ]`,
+𝙷𝙰 
+𝙷𝙸
+𝙷𝙸
+𝙷𝙴
+𝙱𝙰
+𝙱𝙴
+𝙱𝚄
+𝙱𝙸
+𝙲𝙰
+𝙲𝙸
+𝙲𝚄
+𝙲𝙾
+𝙱𝚄𝙶1
+𝙱𝚄𝙶2
+𝙱𝚄𝙶3
+𝙱𝚄𝙶4
+𝙱𝚄𝙶5
+𝙱𝚄𝙶6
+𝙱𝚄𝙶7
+𝙿𝙾𝙻𝙻
+𝙶𝙰𝚂𝙺𝙰𝙻
+𝙱𝚄𝙶 𝚃𝙰𝙶
+𝙸𝙽𝙸 𝙱𝚄𝙶
+𝙷𝙸𝚈𝙰
+𝙻𝙾𝙺𝙰𝚂
+𝙲𝙰𝚃𝙰𝙻𝙾𝙶
+𝙳𝙾𝙲𝚄
+𝙹𝙰𝙶𝙾𝙰𝙽 𝙾𝙼
+𝙳𝙰𝙲𝙰
+𝙳𝚄𝙲
+𝙳𝚄𝙲𝚄
+𝚃𝚁𝙾𝙻𝙸
+𝚃𝚁𝙾𝙻𝙸2
+𝚃𝚁𝙾𝙻𝙸3
+𝙹𝙰𝙳𝙸 𝙱𝚄𝙶1
+𝙹𝙰𝙳𝙸 𝙱𝚄𝙶2
+𝙹𝙰𝙳𝙸 𝙱𝚄𝙶3
+𝙹𝙰𝙳𝙸 𝙱𝚄𝙶4
+𝙹𝙰𝙳𝙸 𝙱𝚄𝙶5
+𝙱𝚄𝙶 𝚂𝚃𝙸𝙺
+𝙱𝚄𝙶 𝙸𝙴
+𝙱𝚄𝙶 𝙻𝙾𝙺𝙰𝚂
+𝙱𝚄𝙶 𝙸𝙽𝚅𝙸𝚃𝙴
+𝙱𝚄𝙶 𝙱𝙲 𝚃𝙴𝚇𝚃
+▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
+𝙱𝙰𝚂𝙴 𝚂𝙲𝚁𝙸𝙿𝚃
+© 𝙷𝙰𝙽𝚉𝙾 𝚇𝙳`,
 contextInfo:{"externalAdReply": {"title": `SC Hanzo`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
