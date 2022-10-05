@@ -27,8 +27,8 @@ global.botname = 'Hanzo Crash Infinty V2👿' //ubah jadi nama bot mu, note tand
 global.footer = 'Hanzo XD👿' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['685242045870']
-global.premium = ['685242045870']
+global.owner = ['6285242045870']
+global.premium = ['6285242045870']
 global.packname = 'Hanzo Crash Infinty V2👿'
 global.ownerr = ['Hanzo XD🔥']
 global.author = 'Hanzo XD🔥'
