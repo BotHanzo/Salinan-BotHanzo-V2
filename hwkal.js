@@ -13,7 +13,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //=================================================//
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = '-'
+global.youtube = 'https://youtube.com/channel/UC-h8YOYkhx-eCEdqmLv-Xkg'
 global.ig = '-'
 global.mygc = 'wa.me/6285242045870'
 global.myweb = 'https://eclass.iainsalatiga.ac.id/app/upload/users/1/10892/my_files/XhiroMhonshine.html'
