@@ -226,8 +226,8 @@ const anakau = {
 video:fs.readFileSync("./baseikal/video/haikal.mp4"),
 gifPlayback:true,
 jpegThumbnail:log0,
-caption:`Haii 👋 Kak ${pushname} Selamat ${salam} *Aku Adalah Bot Hanzo crash infinity 😈*
-Agar Bot Bisa Di Gunakan Silahkan Ketik [ Verifikasi ] Di Group Apapun
+caption:`Haii 👋 Kak ${pushname} Selamat ${salam} *Aku Adalah Bot Hanzo crash infinity*
+Agar Bot Bisa Di Gunakan ketik [ Verifikasi ] Di Group Apapun
  `
 }
 haikal.sendMessage(m.chat, anakau, {quoted: hw})
@@ -4493,7 +4493,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} S
 𝙱𝚄𝙶 𝚃𝙰𝙶
 𝙸𝙽𝙸 𝙱𝚄𝙶
 𝙷𝙸𝚈𝙰
-𝙻𝙾𝙺𝙰𝚂a
+𝙻𝙾𝙺𝙰𝚂
 𝙲𝙰𝚃𝙰𝙻𝙾𝙶
 𝙳𝙾𝙲𝚄
 𝙹𝙰𝙶𝙾𝙰𝙽 𝙾𝙼
