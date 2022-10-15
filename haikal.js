@@ -4869,13 +4869,13 @@ coffe
 quotesanime
 couple
 wibu
-loli
+Pinterest
 bully
 waifu
 cuddle
-neko
+Naruto
 cry
-kiss
+Gaktau
 hug
 lick
 awoo
@@ -4885,7 +4885,7 @@ lick
 pat
 kill
 nom
-poke
+Bego
 wink
 bonk
 glomp
